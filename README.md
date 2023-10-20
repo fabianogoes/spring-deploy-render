@@ -25,7 +25,10 @@ Escrevi um Post no LinkedIn com detalhes sonbre o processo e diviculdades :point
 - https://spring-deploy-render-mfk4.onrender.com/actuator
 - https://spring-deploy-render-mfk4.onrender.com/actuator/health
 
-:dart: Vou evoluir essa app para poder testar mais recursos dentro do Render e documentar as dificukldades aqui e no Post do LinkedIn.
+:dart: Vou evoluir essa app para poder testar mais recursos dentro do Render e documentar as dificuldades aqui e no Post do LinkedIn.
 
 :pushpin: Se alguém por aí se animar nessa bricadeira fique a vontade para abrir Issues e Pull Request 
 
+---
+
+<img src="MIT.png" height="50" width="150">
